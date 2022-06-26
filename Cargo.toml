@@ -1,0 +1,12 @@
+[package]
+name = "easyterm"
+version = "0.1.0"
+edition = "2021"
+license = "MPL-2.0"
+description = "Package to easy work with terminal"
+homepage = "https://github.com/XmasApple/easyterm"
+repository = "https://github.com/XmasApple/easyterm"
+readme = "README.md"
+
+[dependencies]
+num = "0.4.0"
